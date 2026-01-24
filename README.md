@@ -28,6 +28,7 @@ This project was designed to meet the requirements of the 3rd Semester Computer 
 ## ⚙️ How to Compile (Dev-C++)
 
 This project requires **Dev-C++** with the **GLUT/FreeGLUT** packages installed.
+Tutorial on how to install **Dev-C++ 5.11** and **GLUT/FreeGLUT** : https://youtu.be/f6ijyf6WJ4s?si=4xq4AC8YNYPQbtgH
 
 1.  **Clone the Repo:**
     ```bash

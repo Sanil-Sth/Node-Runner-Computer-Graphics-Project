@@ -12,7 +12,7 @@
 
 ## 📚 Syllabus Mapping (CSC209)
 
-This project was designed to meet the requirements of the 3rd Semester Computer Graphics syllabus:
+This project was designed to meet the requirements of the B.Sc.CSIT 3rd Semester Computer Graphics syllabus:
 
 *   **Unit 2 (Scan Conversion):** The map is rendered by rasterizing geometric primitives (`GL_QUADS`) based on a grid array.
 *   **Unit 3 (2D Transformations):** Player and Enemy movements are implemented via 2D Translation logic ($x' = x + t_x$).
